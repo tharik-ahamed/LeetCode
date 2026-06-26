@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharik-ahamed/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/tharik-ahamed/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/tharik-ahamed/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
