@@ -51,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tharik-ahamed/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/tharik-ahamed/LeetCode/tree/main/0344-reverse-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/tharik-ahamed/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
