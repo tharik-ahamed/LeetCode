@@ -58,5 +58,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/tharik-ahamed/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/tharik-ahamed/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/tharik-ahamed/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0620-not-boring-movies](https://github.com/tharik-ahamed/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/tharik-ahamed/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
