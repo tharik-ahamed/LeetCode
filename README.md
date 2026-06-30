@@ -55,4 +55,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/tharik-ahamed/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/tharik-ahamed/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
