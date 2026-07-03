@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/tharik-ahamed/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/tharik-ahamed/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/tharik-ahamed/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0584-find-customer-referee](https://github.com/tharik-ahamed/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
