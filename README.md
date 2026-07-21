@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/tharik-ahamed/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tharik-ahamed/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharik-ahamed/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/tharik-ahamed/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/tharik-ahamed/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tharik-ahamed/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
