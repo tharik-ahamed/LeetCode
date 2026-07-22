@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharik-ahamed/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/tharik-ahamed/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0198-house-robber](https://github.com/tharik-ahamed/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/tharik-ahamed/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/tharik-ahamed/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
