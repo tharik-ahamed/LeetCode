@@ -93,4 +93,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/tharik-ahamed/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
