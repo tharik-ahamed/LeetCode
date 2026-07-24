@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/tharik-ahamed/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0605-can-place-flowers](https://github.com/tharik-ahamed/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/tharik-ahamed/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0414-third-maximum-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
