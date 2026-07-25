@@ -108,4 +108,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [2469-convert-the-temperature](https://github.com/tharik-ahamed/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 <!---LeetCode Topics End-->
