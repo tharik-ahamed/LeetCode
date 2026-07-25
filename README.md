@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tharik-ahamed/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/tharik-ahamed/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/tharik-ahamed/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tharik-ahamed/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/tharik-ahamed/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharik-ahamed/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -100,4 +102,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
