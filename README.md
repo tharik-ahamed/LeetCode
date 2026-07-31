@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tharik-ahamed/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/tharik-ahamed/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tharik-ahamed/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1929-concatenation-of-array](https://github.com/tharik-ahamed/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/tharik-ahamed/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/tharik-ahamed/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
