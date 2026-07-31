@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0605-can-place-flowers](https://github.com/tharik-ahamed/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/tharik-ahamed/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/tharik-ahamed/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/tharik-ahamed/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tharik-ahamed/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Matrix
