@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/tharik-ahamed/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/tharik-ahamed/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/tharik-ahamed/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/tharik-ahamed/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/tharik-ahamed/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0443-string-compression](https://github.com/tharik-ahamed/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/tharik-ahamed/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/tharik-ahamed/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tharik-ahamed/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
