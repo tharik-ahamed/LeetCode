@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/tharik-ahamed/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/tharik-ahamed/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
