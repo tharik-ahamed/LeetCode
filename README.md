@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tharik-ahamed/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tharik-ahamed/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1929-concatenation-of-array](https://github.com/tharik-ahamed/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharik-ahamed/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharik-ahamed/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tharik-ahamed/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tharik-ahamed/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharik-ahamed/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tharik-ahamed/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sorting
