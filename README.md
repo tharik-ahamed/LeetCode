@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/tharik-ahamed/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/tharik-ahamed/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/tharik-ahamed/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
