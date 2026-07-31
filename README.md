@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/tharik-ahamed/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/tharik-ahamed/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/tharik-ahamed/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/tharik-ahamed/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/tharik-ahamed/LeetCode/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/tharik-ahamed/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/tharik-ahamed/LeetCode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/tharik-ahamed/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -121,12 +125,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/tharik-ahamed/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/tharik-ahamed/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [2469-convert-the-temperature](https://github.com/tharik-ahamed/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
