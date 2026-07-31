@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tharik-ahamed/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/tharik-ahamed/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/tharik-ahamed/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/tharik-ahamed/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/tharik-ahamed/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tharik-ahamed/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tharik-ahamed/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/tharik-ahamed/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/tharik-ahamed/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
