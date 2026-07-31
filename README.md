@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/tharik-ahamed/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0509-fibonacci-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,9 +119,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/tharik-ahamed/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/tharik-ahamed/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/tharik-ahamed/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [2469-convert-the-temperature](https://github.com/tharik-ahamed/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/tharik-ahamed/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
